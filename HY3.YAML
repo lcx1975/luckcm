@@ -21,33 +21,6 @@
      
     proxies:
       # 下面放入你的节点信息（可以多个，认证仔细点！），节点名字支持 🇭🇰 🇺🇸 🇸🇬 🇲🇴 🇬🇧 🇩🇪 🇯🇵 🇰🇷 🇮🇳 等图标。
-     - {"type":"vless","name":"💦B5-CleanIP","server":"104.18.119.91","port":8443,"uuid":"eb1b662e-fe1c-4e6f-aeba-08fc202e099f","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"bp313.cx75.dpdns.org","ws-opts":{"path":"/ve7acgujB4NXubdq/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==?ed=2560","headers":{"host":"BP313.cX75.DPdNS.OrG"}}} 
-     - {"type":"vless","name":"💦B4-CleanIP","server":"104.18.119.91","port":8443,"uuid":"2ca884cb-9c46-4e39-914b-c857ef54d717","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"b3.sdkj.dpdns.org","ws-opts":{"path":"/HLSAI5nJTAF5plRS/MTk4LjQxLjIxMi4xMzA=?ed=2560","headers":{"host":"b3.sdkj.dPdns.ORg"}}}
-     - {"type":"vless","name":"💦B2-CleanIP","server":"104.18.119.91","port":8443,"uuid":"2e205e5e-0c11-45fc-bf64-a4045da2bd69","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"bp.sdkj.dpdns.org","ws-opts":{"path":"/mgUCIpr25BCl39In/MTk4LjQxLjIxMi4xMzA=?ed=2560","headers":{"host":"Bp.SDKJ.DPdns.Org"}}}
-     - {"type":"vless","name":"💦B3-CleanIP","server":"104.18.119.91","port":8443,"uuid":"529b745d-593a-4b0b-ab68-3b0753e9b558","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"nbp309.lucklcx.dns-dynamic.net","ws-opts":{"path":"/B7rSLqMtRyxM0tlf/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==?ed=2560","headers":{"host":"Nbp309.LUcKLCX.dnS-DynAMIc.net"}}}
-     - {"type":"vless","name":"💦B1-CleanIP","server":"104.18.119.91","port":8443,"uuid":"1a8c6da8-bf18-4d1e-99cc-1a0916592756","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"b2.lucklcx.dpdns.org","ws-opts":{"path":"/HaV10g9nIV9vjdYG/MTA0LjIxLjkxLjE5?ed=2560","headers":{"host":"B2.luCKLCx.DPDNS.Org"}}} 
-     - {"type":"vless","name":"🇺🇲US_1","server":"104.19.107.190","port":2096,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇺🇲US_2","server":"167.68.4.131","port":8443,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇺🇲US_3","server":"172.67.210.4","port":2083,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇺🇲US_4","server":"172.67.204.145","port":2053,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇺🇲US_5","server":"172.64.35.66","port":443,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇺🇲US_6","server":"104.19.57.183","port":2096,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇺🇲US_7","server":"135.84.64.77","port":2096,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇸🇬SG_1","server":"92.243.74.239","port":8443,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇸🇬SG_2","server":"27.50.49.154","port":2083,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-     - {"type":"vless","name":"🇸🇬SG_3","server":"27.50.49.209","port":2087,"uuid":"d0dd6f10-69c6-4718-8e15-1e945b71008d","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","servername":"cm.lucklcx.dpdns.org","ws-opts":{"path":"/?ed=2560","headers":{"host":"cm.lucklcx.dpdns.org"}}}
-
-
-     - name: 🇵🇱hysteria2-s14
-       type: hysteria2                                      
-       server: 188.68.240.161                               
-       port: 62670                                
-       password: b6365c41-0361-4b38-bb25-df3c906ee471                          
-       alpn:
-         - h3
-       sni: www.bing.com                               
-       skip-cert-verify: true
-       fast-open: true
 
      - name: "\U0001F1EB\U0001F1F7法国1 | ⬇️ 16.7MB/s"
        obfs: ''
@@ -488,28 +461,6 @@
         proxies:
           - 🚀 节点选择
           - ♻️ 自动选择
-          - 🔮 负载均衡
-          - "\U0001F1FA\U0001F1F8美国1 | ⬇️ 11.8MB/s"
-          - "\U0001F1FA\U0001F1F8美国2 | ⬇️ 11.6MB/s"
-          - "\U0001F1FA\U0001F1F8美国3 | ⬇️ 10.9MB/s"
-          - "\U0001F1FA\U0001F1F8美国4 | ⬇️ 6.3MB/s"
-          - "\U0001F1FA\U0001F1F8美国5 | ⬇️ 6.5MB/s"
-          - "\U0001F1FA\U0001F1F8美国6 | ⬇️ 17.4MB/s"
-          - "\U0001F1FA\U0001F1F8美国7 | ⬇️ 9.7MB/s"
-          - "\U0001F1FA\U0001F1F8美国8 | ⬇️ 3.8MB/s"
-          - "\U0001F1FA\U0001F1F8美国9 | ⬇️ 9.4MB/s"
-          - "\U0001F1FA\U0001F1F8美国10 | ⬇️ 6.4MB/s"
-          - "\U0001F1FA\U0001F1F8美国12 | ⬇️ 19.1MB/s"
-          - "\U0001F1EB\U0001F1F7法国1 | ⬇️ 16.7MB/s"
-          - "\U0001F1EB\U0001F1F7法国2 | ⬇️ 8.4MB/s"
-          - "\U0001F1EB\U0001F1F7法国5 | ⬇️ 15.2MB/s" 
-          - "\U0001F1F7\U0001F1FA俄罗斯1 | ⬇️ 6.4MB/s" 
-          - "\U0001F1F7\U0001F1FA俄罗斯2 | ⬇️ 7.3MB/s"
-          - 💦B1-CleanIP
-          - 💦B2-CleanIP
-          - 💦B3-CleanIP
-          - 💦B4-CleanIP
-          - 💦B5-CleanIP          
           - 狮城节点
           - 香港节点
           - 台湾节点
@@ -575,30 +526,12 @@
           - 🚀 节点选择
           - 🎯 全球直连
           - ♻️ 自动选择
-          - 💦B1-CleanIP
-          - 💦B2-CleanIP
-          - 💦B3-CleanIP
-          - 💦B4-CleanIP
-          - 💦B5-CleanIP                    
-          - 🇵🇱hysteria2-s14
           - 狮城节点
           - 香港节点
           - 台湾节点
           - 日本节点
           - 美国节点
           - 韩国节点
-
-      - name: 🔮 负载均衡
-        type: load-balance    
-        strategy: consistent-hashing     # 轮询-round-robin  散列-consistent-hashing
-        url: http://www.gstatic.com/generate_204
-        interval: 180
-        proxies:
-          - 💦B1-CleanIP
-          - 💦B2-CleanIP
-          - 💦B3-CleanIP
-          - 💦B4-CleanIP
-          - 💦B5-CleanIP 
 
       - name: 🎯 全球直连
         type: select
@@ -619,15 +552,6 @@
       - name: 🐟 漏网之鱼
         type: select
         include-all: true
-        proxies:
-          - 🔮 负载均衡
-
-      - name: 💦CF节点
-        include-all: true
-        filter: (?i)BPB|CleanIP
-        type: url-test
-        interval: 300
-        tolerance: 50
 
       - name: 香港节点
         icon: >-
